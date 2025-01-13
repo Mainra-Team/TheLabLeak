@@ -329,7 +329,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6757538425913133238, guid: e91f17df4e8cf9f48961068597c62f82, type: 3}
       propertyPath: popupPrefabs.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6757538425913133238, guid: e91f17df4e8cf9f48961068597c62f82, type: 3}
       propertyPath: 'uiPrefabs.Array.data[0]'
@@ -339,6 +339,10 @@ PrefabInstance:
       propertyPath: 'popupPrefabs.Array.data[0]'
       value: 
       objectReference: {fileID: 6181486244016048842, guid: 56560a8cf5b40bb45826773dc8884f49, type: 3}
+    - target: {fileID: 6757538425913133238, guid: e91f17df4e8cf9f48961068597c62f82, type: 3}
+      propertyPath: 'popupPrefabs.Array.data[1]'
+      value: 
+      objectReference: {fileID: 8633985197810057508, guid: 5318af15cce75c94aae909b756819f5c, type: 3}
     - target: {fileID: 8342906370219379687, guid: e91f17df4e8cf9f48961068597c62f82, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
